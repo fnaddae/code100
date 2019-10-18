@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log -  [Your Name Here]
+# 100 Days Of Code - Log -  [Frank]
 
 - You're expected to keep a log of your progress everyday of the challenge using this log, and ideal sentence structure would be, to write in a manner as stated below, using the Rapid Log format of the fully structured version.
 
@@ -13,9 +13,9 @@ Link to code github repo article or any proof of what you worked on
 
 #### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Fixed Python, worked on building an app with django.
+**Thoughts:** I really struggled with the framwork, but, overall, I feel like I am slowly getting better at it. Django is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [dating app](http://www.example.com)
 
 ### Day 0: October 15, 2019 (Example 2)
 
